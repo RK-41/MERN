@@ -3,7 +3,7 @@ import React from 'react';
 function Home() {
    return (
       <div className='mb-20'>
-         <h1 className='sm:text-4xl text-2xl font-bold my-6 text-gray-900'>Hello, Welcome to my Blog!</h1>
+         <h1 className='sm:text-4xl text-2xl font-bold my-6 text-gray-900'>Welcome to my Blog!</h1>
 
          <p className='mx-auto leading-relaxed text-base mb-4'>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat laborum voluptatum recusandae sed odit sint amet dolore voluptate quasi accusantium et id tempora, eum iusto, reprehenderit ipsam! Assumenda, commodi neque?
