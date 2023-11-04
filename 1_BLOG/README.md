@@ -1,2 +1,2 @@
 # MERN BLOG
-A basic blog website.
+A basic blog website built with MERN Stack.
